@@ -15,7 +15,7 @@ export const Sidebar = ({ className }: SidebarProps) => {
                 <div className="pt-8 pl-4 pb-7 flex items-center gap-x-3">
                     <Image src="/lingo-logo.png" height={40} width={40} alt="Lingo Mobile Logo" />
                     <h1 className="text-2xl font-extrabold text-green-600 tracking-wide">
-                        Lingo
+                        KnowledgeCube
                     </h1>
                 </div>
             </Link>
