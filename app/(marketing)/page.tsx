@@ -21,7 +21,7 @@ export default function Home() {
       </div>
       <div className="flex flex-col items-center gap-y-8">
         <h1 className="text-xl lg:text-2xl font-bold text-neutral-600 text-center">
-          Learn, practice and expertise in all new languages with Lingo.
+          Learn, practice and expertise in all new languages with KnowledgeCube.
         </h1>
         <div className="flex flex-col items-center gap-y-3 max-w-[330px] w-full">
           <ClerkLoading>
